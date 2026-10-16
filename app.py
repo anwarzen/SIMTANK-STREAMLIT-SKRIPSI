@@ -109,7 +109,7 @@ clf.fit(X, y)
 # ---------------------------------------------------------
 # 3. SIDEBAR NAVIGATION
 # ---------------------------------------------------------
-st.sidebar.image("https://img.icons8.com/color/96/000000/gas-truck.png", width=70)
+st.sidebar.image("logoepn.png", width=120)
 st.sidebar.title("SIMTANK IT Dumai")
 st.sidebar.caption("PT Elnusa Petrofin - Riau")
 st.sidebar.markdown("---")
