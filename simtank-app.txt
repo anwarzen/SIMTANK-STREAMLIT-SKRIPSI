@@ -1,0 +1,5 @@
+simtank-app/
+├── app.py
+├── requirements.txt
+└── .streamlit/
+    └── config.toml (Opsional untuk tema)
